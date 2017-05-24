@@ -1,0 +1,14 @@
+.about {
+  font-family: monospace;
+}
+
+.blogPost1 {
+  background-color: salmon;
+  font-stretch: expanded;
+  text-align: center;
+}
+
+.blogPost2 {
+  background-color: maroon;
+  font-stretch: condensed;
+}
