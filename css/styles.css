@@ -1,14 +1,20 @@
 .about {
   font-family: monospace;
+  margin-top: 15px;
+  margin-bottom: 20px;
 }
 
 .blogPost1 {
   background-color: salmon;
   font-stretch: expanded;
   text-align: center;
+  margin-top: 15px;
+  margin-bottom: 20px;
 }
 
 .blogPost2 {
   background-color: maroon;
   font-stretch: condensed;
+  margin-top: 15px;
+  margin-bottom: 20px;
 }
